@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Mens Winter Leathers Jackets",
+    "description": "Stay warm and stylish with this men's winter leather jacket.",
+    "price": 48.00,
+    "image": "./assets/images/products/jacket-5.jpg",
+    "sizes": ["S", "M", "L"],
+    "category": "women"
+  },
+  {
+    "id": 2,
+    "name": "Pure Garment Dyed Cotton Shirt",
+    "description": "Classic cotton shirt with a garment-dyed finish for a soft feel.",
+    "price": 45.00,
+    "image": "./assets/images/products/shirt-1.jpg",
+    "sizes": ["S", "M", "L", "XL"],
+    "category": "men"
+  },
+  {
+    "id": 3,
+    "name": "MEN Yarn Fleece Full-Zip Jacket",
+    "description": "Yarn fleece jacket for men, perfect for outdoor activities.",
+    "price": 58.00,
+    "image": "./assets/images/products/jacket-5.jpg",
+    "sizes": ["M", "L", "XL"],
+    "category": "men"
+  },
+  {
+    "id": 4,
+    "name": "Black Floral Wrap Midi Skirt",
+    "description": "Elegant and stylish midi skirt with a floral design for evening outings.",
+    "price": 25.00,
+    "image": "./assets/images/products/clothes-3.jpg",
+    "sizes": ["M", "L"],
+    "category": "women"
+  },
+  {
+    "id": 5,
+    "name": "Casual Men's Brown shoes",
+    "description": "Comfortable casual brown shoes perfect for all-day wear.",
+    "price": 99.00,
+    "image": "./assets/images/products/shoe-2.jpg",
+    "sizes": ["8", "9", "10", "11"],
+    "category": "women"
+  },
+  {
+    "id": 6,
+    "name": "Pocket Watch Leather Pouch",
+    "description": "Vintage-style leather pouch for pocket watches.",
+    "price": 150.00,
+    "image": "./assets/images/products/watch-3.jpg",
+    "sizes": ["One Size"],
+    "category": "women"
+  },
+  {
+    "id": 7,
+    "name": "Smart watche Vital Plus",
+    "description": "Advanced smartwatch with vital monitoring features.",
+    "price": 100.00,
+    "image": "./assets/images/products/watch-1.jpg",
+    "sizes": ["One Size"],
+    "category": "women"
+  },
+  {
+    "id": 8,
+    "name": "Womens Party Wear Shoes",
+    "description": "Stylish party wear shoes for women to make a statement.",
+    "price": 25.00,
+    "image": "./assets/images/products/party-wear-1.jpg",
+    "sizes": ["6", "7", "8", "9"],
+    "category": "men"
+  }
+]
